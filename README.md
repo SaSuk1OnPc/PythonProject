@@ -1,0 +1,2 @@
+# PythonProject
+This project allow us to be able to find the ultimate 5G throughput possible no matter where is the location by applying some network configuration test so we can benchmark easily each location best applicable bandwidth and save these test results into a text file and code them into a an advanced QR-Code for more fast, reliable, and most importantly secure and easy to transfer among the network associates or could be possibly also clients.
